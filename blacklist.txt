@@ -42,3 +42,7 @@
 0.0.0.0 ngfts.lge.com
 0.0.0.0 analytics-api.samsunghealthcn.com
 0.0.0.0 ads.vk.com
+0.0.0.0 tools.mouseflow.com
+0.0.0.0 business-api.tiktok.com
+
+
