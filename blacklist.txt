@@ -1,4 +1,3 @@
-0.0.0.0 yastatic.net
 0.0.0.0 pubmatic.com
 0.0.0.0 cdn.indexexchange.com
 0.0.0.0 metrika.yandex.ru
